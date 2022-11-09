@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+ <head lang="en">
+	 <title>Welcome to Peter Parker world</title>
+	 <meta charset="UTF-8"/>
+	 <link rel="stylesheet" href="" type="text/css"/>
+ </head>
+	 <body>
+	 <div id= "mainPage">
+	          <div id= "heading">
+	<h1>Welcome to Peter Parker world</h1>
+	<h2>Building climber and train stopper<h2>
+	<p>someAnge disait ici que "mince mon partenaire est élégant" et Lisa répondit: " non c'est mon partenaire le plus élégant". Il y'a une vidéo qui vous a enregistré.Ange disait ici que "mince mon partenaire est élégant" et Lisa répondit: " non c'est mon partenaire le plus élégant". Il y'a une vidéo qui vous a enregistré.</p>
+	<button>Hire me</button>
+	<img src="Img1.jpeg" alt="spiderman"/>
+	         </div>
+	         <div id= "body">
+	         </div>
+	         <div id="conclusion">
+	</div>
+	 </body>
+ </html>
